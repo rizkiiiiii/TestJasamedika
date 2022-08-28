@@ -1,0 +1,7 @@
+A. Tools untuk membuat:
+1. Xampp
+2. Code Editor (VScode)
+3. Browser
+4. Gitbash (untuk terminal)
+
+B. Menggunakan Framework Laravel dan juga Framework Bootstrap
